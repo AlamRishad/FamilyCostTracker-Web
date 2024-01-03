@@ -1,0 +1,56 @@
+.header-container {
+    background-color: #f8f9fa; 
+    padding: 2rem 0; 
+  }
+  .header-title {
+    color: #343a40;
+    font-size: 2.5rem; 
+    
+  }
+  .header-subtitle {
+    color: #6c757d; 
+    font-size: 1rem; 
+    width: 70%;
+    padding-left: 30%;
+    text-align: center;
+    
+  }
+.section-2-container{
+    background-color: #f8f9fa;
+    width: 100%;
+    padding-left: 5%;
+    
+    padding-right: 5%;
+}
+.custom-card {
+    height: 100%;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  .card-text{
+    
+    padding-bottom: 1rem;
+  }
+  .custom-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-title{
+    height: 30%;
+  }
+  .custom-badge {
+    margin-top: 1rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+  }
+  .badge-red { background-color: #FF4136; }
+  .badge-yellow { background-color: #FFDC00; }
+  .badge-green { background-color: #2ECC40; }
+  .badge-blue { background-color: #0074D9; }

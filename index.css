@@ -1,0 +1,9 @@
+.sidebar {
+    background-color: #205578; /* Replace #yourColor with the hex color code you want */
+   
+  }
+  .nav-link.active {
+    color: #205578 !important; /* Overrides other color properties */
+    background-color: white !important;
+  }
+  

@@ -6,4 +6,8 @@
     color: #205578 !important; /* Overrides other color properties */
     background-color: white !important;
   }
-  
+  .active-button {
+
+    background-color: #4CAF50; 
+    color: white;
+}
